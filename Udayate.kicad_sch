@@ -9,6 +9,8 @@
 		(date "2025-08-24")
 		(rev "1")
 		(comment 2 "LICENSE: CERN-OHL-S-2.0")
+		(comment 3 "GitHub: https://github.com/Ozonised/Udayate")
+		(comment 4 "Designed by: Farhan Khan")
 	)
 	(lib_symbols)
 	(junction
