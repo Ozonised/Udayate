@@ -8,6 +8,8 @@
 		(title "Udayate")
 		(date "2025-08-24")
 		(rev "1")
+		(comment 2 "LICENSE: CERN-OHL-S-2.0")
+		(comment 4 "LICENSE: CERN-OHL-S-2.0")
 	)
 	(lib_symbols
 		(symbol "Device:C_Small"
