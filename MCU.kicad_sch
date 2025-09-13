@@ -4754,7 +4754,7 @@
 	)
 	(hierarchical_label "D_MOUT_2"
 		(shape bidirectional)
-		(at 182.88 72.39 0)
+		(at 182.88 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4964,7 +4964,7 @@
 	)
 	(hierarchical_label "D_MOUT_3"
 		(shape bidirectional)
-		(at 182.88 74.93 0)
+		(at 182.88 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5042,7 +5042,7 @@
 	)
 	(hierarchical_label "D_MOUT_1"
 		(shape bidirectional)
-		(at 182.88 69.85 0)
+		(at 182.88 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
