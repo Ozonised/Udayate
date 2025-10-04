@@ -3635,11 +3635,11 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "2066ab2c-309e-41cc-b7a0-bd22d0de7305")
+			(uuid "139befe4-31a8-417d-9f6b-074aea228337")
 		)
 		(fp_poly
 			(pts
-				(xy 0.5 1.41) (xy 0.39 1.64) (xy 0.69 1.64) (xy 0.53 1.35)
+				(xy -0.6 1.5) (xy -0.71 1.73) (xy -0.41 1.73) (xy -0.57 1.44)
 			)
 			(stroke
 				(width 0.1)
@@ -3647,7 +3647,7 @@
 			)
 			(fill yes)
 			(layer "F.SilkS")
-			(uuid "7a627506-43ff-4a9e-81d9-b9f66f6a29af")
+			(uuid "f80ce02d-8fe5-4b50-b778-1cac70889c76")
 		)
 		(fp_rect
 			(start -0.7 -1.06)
@@ -3658,7 +3658,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "f4f43992-aabe-4e9b-b21a-403349f1cebb")
+			(uuid "1449999d-bda6-43b3-8dd3-3e061235ed2f")
 		)
 		(fp_text user "MLX90394RLD"
 			(at 0 4 0)
@@ -3721,7 +3721,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "219a3bea-8ead-4967-b3e0-88f9accf1a82")
+			(uuid "ef6cf14e-da59-4cc7-9799-80c5c07fbfc6")
 		)
 		(pad "5" smd roundrect
 			(at 0 -0.82 270)
