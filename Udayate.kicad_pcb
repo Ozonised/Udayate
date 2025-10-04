@@ -27941,7 +27941,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Rev: 1"
+	(gr_text "Rev: 1.1"
 		(at 151.55 106.65 0)
 		(layer "B.SilkS" knockout)
 		(uuid "ce7d0e22-0bda-49fa-a68b-7b7c4f3ed592")
