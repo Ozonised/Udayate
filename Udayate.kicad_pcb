@@ -10,7 +10,7 @@
 	(title_block
 		(title "Udayate")
 		(date "2025-10-04")
-		(rev "1.1")
+		(rev "1.2")
 		(comment 2 "LICENSE: CERN-OHL-S-2.0")
 		(comment 3 "GitHub: https://github.com/Ozonised/Udayate")
 		(comment 4 "Designed by: Farhan Khan")
@@ -28426,7 +28426,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "2.3622"
+		(gr_text "60"
 			(at 188.65 102 90)
 			(layer "Cmts.User")
 			(uuid "03007a1a-12bc-4590-b37b-d217c85e87af")
@@ -28464,7 +28464,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "2.3661"
+		(gr_text "60.1"
 			(at 148.65 140.65 0)
 			(layer "Cmts.User")
 			(uuid "bd05f111-7ff1-486a-bb05-f900bdb7f40d")
