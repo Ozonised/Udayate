@@ -1203,7 +1203,7 @@
 		)
 		(uuid "2da91810-26f5-4e69-b1fa-05b432767d78")
 	)
-	(text "SDO = 0, I2C address : 0x6A\nSDO = 1, I2C address : 0x6B"
+	(text "SDO = 0, I2C address : 0x76\nSDO = 1, I2C address : 0x77"
 		(exclude_from_sim no)
 		(at 172.212 86.868 0)
 		(effects
